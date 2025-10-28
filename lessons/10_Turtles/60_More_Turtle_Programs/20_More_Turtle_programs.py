@@ -23,7 +23,8 @@ for i in range(-200, 200):
     t1.goto(i,i)
     t2.goto(i,-i)
 
-t1
+t1.forward(40)
+t2.forward
 
 
 
