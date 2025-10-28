@@ -11,7 +11,8 @@ screen = turtle.Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor('white')
 
-t1.color
+t1.color('pink')
+t2.clor
 
 
 t1 = turtle.Turtle()
