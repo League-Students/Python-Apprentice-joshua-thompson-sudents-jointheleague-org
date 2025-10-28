@@ -11,6 +11,9 @@ screen = turtle.Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor('white')
 
+t1.color
+
+
 t1 = turtle.Turtle()
 t1.penup()
 t1.shape("turtle")
